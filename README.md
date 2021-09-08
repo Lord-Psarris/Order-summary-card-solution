@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor](https://www.frontendmentor.io/solutions/responsive-page-using-css-mxROWZG-Y)
+- Live Site URL: [Order-summary-card-solution](https://lord-psarris.github.io/Order-summary-card-solution/)
 
 ## Author
 
