@@ -20,4 +20,4 @@ Users should be able to:
 ## Author
 
 - Upwork - [Emmanuel Steve](https://www.upwork.com/freelancers/~01780097fc5243ef0b)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Lord-Psarris](https://www.frontendmentor.io/profile/Lord-Psarris)
